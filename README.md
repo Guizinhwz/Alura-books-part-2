@@ -1,1 +1,9 @@
-# Alura-books-part-2
+### ALURA BOOKS PART II PROJETO 
+Pagina digital de livros
+
+### TECNOLOGIAS ULTILIZADAS
+HTML
+CSS
+
+### CREDITOS 
+plataforma da Alura
